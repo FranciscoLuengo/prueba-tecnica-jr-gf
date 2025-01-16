@@ -1,6 +1,6 @@
 # Prueba técnica resuelta
 
-https://pruebatecnica-jr-gf.netlify.app](https://prueba-tecnica-jr-gf-eta.vercel.app/login)](https://prueba-tecnica-jr-gf-eta.vercel.app/login
+[Link Página]([https://dummyjson.com/users](https://prueba-tecnica-jr-gf-eta.vercel.app/login))
 
 
 ## Ejemplo de usuarios
