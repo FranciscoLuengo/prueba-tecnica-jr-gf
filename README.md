@@ -1,6 +1,6 @@
 # Prueba técnica resuelta
 
-https://pruebatecnica-jr-gf.netlify.app/login
+https://pruebatecnica-jr-gf.netlify.app
 
 
 ## Ejemplo de usuarios
